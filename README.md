@@ -21,6 +21,5 @@ Before you begin, make sure you have Python installed. Then, follow these steps 
 
  1. Clone the repository:
 
-    git clone https://github.com/vijaysuryabaka/CodegenXai.git
-    cd backend
-  
+    `git clone https://github.com/vijaysuryabaka/CodegenXai.git
+    cd backend`
